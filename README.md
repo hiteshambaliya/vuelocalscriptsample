@@ -1,0 +1,2 @@
+# vuelocalscriptsample
+simple file
